@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+font-family: 'Inter', sans-serif;
+}
+body{
+ height: 100vh;
+ background-color: #f4f4f9;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+ .main-box{
+  background-color: white;
+  height:74%;
+  width:30%;
+  border-radius: 15px;
+  box-shadow: 5px 5px 30px 10px rgba(0, 0, 0 ,0.06);
+  text-align: center;
+ }
+ .dp{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border-width: 4px;
+  border-color: rgb(107, 70, 193);
+  border-style: solid;
+  margin-top:30px;
+  
+ }
+ .name{
+  font-size:50px;
+  font-weight: 100px;
+  margin-top: 15px;
+ }
+ .webdev{
+  margin-top: 10px;
+  color:rgba(0, 0, 0 ,0.5);
+  font-size: 20px;
+ }
+ .text{
+  color: rgba(0, 0, 0 ,0.7);
+  margin-top: 25px;
+  font-size: 21px;
+ }
+ .follow-btn{
+  margin-top: 25px;
+  background-color: rgb(107, 70, 193);
+  font-size: 20px;
+  color: white;
+  border-radius: 25px;
+  border: none;
+  padding: 10px 25px 10px 25px;
+  font-weight: bold;
+  }
+  .line{
+    width:85%;
+    margin: auto;
+    text-align: center;
+    margin-top: 25px;
+    line-height:5px;
+  }
+  .footer{
+    float:left;
+    margin-left:85px;
+    margin-top: 20px;
+  }
+.text1{
+  font-family: 'Inter' sans-serif;
+  padding-top: 7px;
+  font-size: 16px;
+  font-weight: 100;
+  color:rgba(0, 0, 0 ,0.5);
+}
