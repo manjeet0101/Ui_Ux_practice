@@ -12,8 +12,8 @@ body{
 }
  .main-box{
   background-color: white;
-  height:74%;
-  width:30%;
+  height:575px;
+  width:480px;
   border-radius: 15px;
   box-shadow: 5px 5px 30px 10px rgba(0, 0, 0 ,0.06);
   text-align: center;
